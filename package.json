@@ -5,7 +5,7 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "dexie": "^2.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "recompose": "^0.30.0",
